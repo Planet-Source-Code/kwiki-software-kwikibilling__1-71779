@@ -1,0 +1,30 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Invoice">
+		<param name="Name" value="Invoice Help">
+		<param name="Local" value="Help_Invoices.htm">
+		<param name="URL" value="Help_Invoices.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Customers">
+		<param name="Name" value="Customers">
+		<param name="Local" value="Customers.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Printing">
+		<param name="Name" value="KWIKI BILLING">
+		<param name="Local" value="Setting_Up_KWIKI BILLING.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Setup">
+		<param name="Name" value="KWIKI BILLING">
+		<param name="Local" value="Setting_Up_KWIKI BILLING.htm">
+		</OBJECT>
+</UL>
+</BODY></HTML>
