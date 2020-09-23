@@ -1,0 +1,29 @@
+[OPTIONS]
+Binary Index=No
+Compatibility=1.1 or later
+Compiled file=Kwiki_Help.chm
+Contents file=Kwiki_Help_Content.hhc
+Default Window=Help_Main
+Default topic=Main.htm
+Display compile progress=No
+Full-text search=Yes
+Index file=Kwiki_Help_Index.hhk
+Language=0x409 English (United States)
+Title=Kwiki Billing Help
+
+[WINDOWS]
+Help_Main="Help_Main","Kwiki_Help_Content.hhc","Kwiki_Help_Index.hhk","Main.htm","Main.htm",,,,,0x2520,,0x3006,[193,52,777,510],,,,,,,0
+New_Help="New_Help","Bias_Help_Content.hhc","Bias_Help_Index.hhk","Main.htm",,,,,,,,0x0,[271,202,593,566],,,,0,,,0
+
+
+[FILES]
+Main.htm
+Help_Invoices.htm
+Customers.htm
+Setting_Up_KWIKI BILLING.htm
+
+[ALIAS]
+Auto Index=Yes
+
+[INFOTYPES]
+
